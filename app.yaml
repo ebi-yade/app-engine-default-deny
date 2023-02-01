@@ -1,0 +1,2 @@
+service: default
+runtime: go119
