@@ -12,7 +12,7 @@ This is the solution when you come across an error like the one below and if you
 Simply run:
 
 ```sh
-gcloud app deploy
+gcloud app deploy --version deny
 ```
 
 ## Contribution
