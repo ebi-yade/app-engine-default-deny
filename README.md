@@ -1,3 +1,5 @@
+_**IMPORTANT NOTE:**_ moved to https://github.com/ebi-yade/app-engine-samples/tree/main/default-deny
+
 # app-engine-default-deny
 The easiest way to deny access to the default service of App Engine
 
